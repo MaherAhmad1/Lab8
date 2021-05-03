@@ -10,3 +10,7 @@ The four "V's" of big data are Volume, variety, velocity, and variability. Volum
 
 # Structured Query Language
 RDBMS to put simply is a database management system and the way it relates to SQL is because SQL is the language used for communicating with the data in RDBMS. SQL is a special language designed to handle data in a relational database managment.  
+
+# SQL Injections 
+"SQL injection is a code injection technique that might destroy your database, SQL injection is one of the most common web hacking techniques, SQL injection is the placement of malicious code in SQL statements, via web page input." As you can see SQL Injection is very risky due to it being able to ruin all the work and progress on any database and code. To reduce the issue you would have to have input validation and parametrized queries that way it would make the developer sanitze all the input. 
+
